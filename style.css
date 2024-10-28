@@ -1,0 +1,30 @@
+body {
+    color:white;
+    background:rgb(208, 124, 124);
+    margin: 0px;
+}
+
+header {
+
+border-bottom:solid 3px rgb(0, 0, 0);
+padding:20px;
+font-size:32px;
+color:rgb(0, 0, 0);
+font-family: "Chakra Petch", sans-serif;
+}
+
+
+    section{
+        background:rgb(208, 124, 124);
+        padding-bottom:2px;
+        padding-top:2px;
+        margin:2px;
+        display:list-item;
+        justify-content: center;
+}
+
+div{
+
+margin-right: 149px;
+}
+
